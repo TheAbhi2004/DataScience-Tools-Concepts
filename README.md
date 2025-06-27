@@ -1,6 +1,6 @@
 # 📘 Final Project: Data Science Tools & Concepts
 
-This repository contains the **final project notebook** for the "**Introduction to Data Science**" course. The project demonstrates core data science tools, languages, libraries, and basic programming skills using the **JupyterLite** environment.
+This repository contains the **final project notebook** for the "**Introduction to Data Science(Data Orientation)**" course. The project demonstrates core data science tools, languages, libraries, and basic programming skills using the **JupyterLite** environment.
 
 ---
 
